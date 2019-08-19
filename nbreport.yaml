@@ -1,0 +1,4 @@
+handle: query_tap_service
+title: Notebook with templated TAP query
+git_repo: https://github.com/lsst-sqre/lsst-apiquerytemplate
+ipynb: query_tap_service.ipynb
